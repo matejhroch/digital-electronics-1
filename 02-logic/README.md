@@ -47,4 +47,4 @@
 
 2. Link to your public EDA Playground example:
 
-   [Link]([https://www.edaplayground.com/...](https://www.edaplayground.com/x/6QDq))
+   [Link](https://www.edaplayground.com/x/6QDq)
