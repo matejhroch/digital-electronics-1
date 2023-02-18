@@ -37,7 +37,7 @@
                 (s_B_equals_A  = '0') and
                 (s_B_less_A    = '1'))
         -- If false, then report an error
-        report "Input combination b=0000, a=1001 FAILED" severity error;
+        report "Input combination b=0, a=9 FAILED" severity error;
 
         -- Report a note at the end of stimulus process
         report "Stimulus process finished" severity note;
