@@ -45,4 +45,4 @@
 3. Screenshot with simulated time waveforms for LED(7:4). Always display all inputs and outputs (display the inputs at the top of the image, the outputs below them) at the appropriate time scale!
 
    ![Signals](https://github.com/matejhroch/digital-electronics-1/blob/main/04-segment/images/signals.PNG)
-   -- Vytvoreny pomocne signaly pro LED 4 az LED 7 pro lepsi znazorneni signalu, screen je z eda playground, jelikoz jsem v hodine tento ukol nestihl a dodelaval doma (link: https://www.edaplayground.com/x/9iws)
+   Vytvoreny pomocne signaly pro LED 4 az LED 7 pro lepsi znazorneni signalu, screen je z eda playground (resp. epwave), jelikoz jsem v hodine tento ukol nestihl a dodelaval doma (link: https://www.edaplayground.com/x/9iws)
